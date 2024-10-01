@@ -18,6 +18,7 @@
     background-color: #3a4452;
     padding: 1rem;
     border-radius: 1.5rem;
+    height: 75vh;
 }
 
 .calculator div *{
